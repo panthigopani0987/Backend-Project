@@ -1,0 +1,19 @@
+{
+  "name": "youtubebackend",
+  "version": "1.0.0",
+  "description": "a backend in at youtube backend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Pruthi Gopani",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
